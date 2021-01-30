@@ -94,7 +94,7 @@ ul li.active a{
 
 .subtitle22{
 	position: absolute;
-	top: 63%;
+	top: 65%;
 	left: 50%;
 	transform: translate(-50%,-50%);	
 }
@@ -205,6 +205,6 @@ ul li.active a{
 .video{
 	position: absolute;
 	top: 80%;
-	left: 50%;
+	left: 30%;
 	transform: translate(-50%,-50%);
 }
